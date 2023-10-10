@@ -1,0 +1,14 @@
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\bin\Debug\net7.0\kalkulator.exe
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\bin\Debug\net7.0\kalkulator.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\bin\Debug\net7.0\kalkulator.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\bin\Debug\net7.0\kalkulator.dll
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\bin\Debug\net7.0\kalkulator.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.dll
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\refint\kalkulator.dll
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\kalkulator.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\kalkulator\obj\Debug\net7.0\ref\kalkulator.dll
